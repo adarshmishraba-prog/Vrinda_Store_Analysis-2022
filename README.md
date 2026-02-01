@@ -54,5 +54,3 @@ The dataset includes customer and order-related information such as:
 
 ## 📊 Final Dashboard  
 A dynamic Excel dashboard was created to visualize all insights clearly and attractively.
-
-> *(Add your dashboard image here)*  
